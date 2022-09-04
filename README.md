@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DrThomasAShin
-- 👀 I’m interested in Python, Scala, C, C++, C#, R, HTML, CSS, SQL
+- 👀 I’m interested in Python, Scala, C, C++, C#, R, HTML, CSS, SQL, Typescript, Matlab
 - 🌱 I’m currently reseaerching Pharmaceutical sciences(Targeted, controlled, Bioavailability)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ResearchGate, Google scholar, ORCID, Mendeley
